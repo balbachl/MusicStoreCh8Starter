@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using MusicStore.Models;
 
-namespace MusicStoeCh6
+namespace MusicStoreCh6
 {
     public class Program
     {

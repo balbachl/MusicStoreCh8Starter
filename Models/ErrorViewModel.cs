@@ -1,4 +1,4 @@
-namespace MusicStoeCh6.Models
+namespace MusicStoreCh6.Models
 {
     public class ErrorViewModel
     {
